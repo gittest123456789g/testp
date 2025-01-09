@@ -523,8 +523,9 @@ ul .lis {
   
 }
 @media (max-width:1024px) {
-  .noee{
-  height: 282px;
+  .noee img{ 
+  height: 282px !important;
+  
   }
 }
 
